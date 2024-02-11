@@ -1,0 +1,12 @@
+pypdf
+python-dotenv
+fastapi
+uvicorn[standard]
+sseclient
+PyPDF2
+chromadb
+aiofiles
+langchain
+python-multipart
+sentence_transformers
+cohere
